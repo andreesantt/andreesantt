@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for a while now<br>📚 Currently mastering JavaScript and full-stack development with React & Node.js<br>🎯 Goals: Become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: Built a simple JavaScript game to learn game mechanics – and had a blast!<br>👀 Open to work<br>📫 Reach me at: andresanttdev@gmail.com<br>💡 Languages: English | Portuguese</p>
+<p align="left">✨ Been fixing bugs and building solutions for a while now.<br>📚 Currently mastering JavaScript and full-stack development with React & Node.js<br>🎯 Goals: Become a full-stack developer and contribute to open-source projects.<br>🎲 Fun fact: Built a simple JavaScript game to learn game mechanics – and had a blast!<br>👀 Open to work<br>📫 Reach me at: andresanttdev@gmail.com<br>💡 Languages: English | Portuguese</p>
 
 ###
 
